@@ -1,0 +1,28 @@
+name: vrjfk
+favicon: null
+layout_spectrum: 0.9272539459634572
+typography_spectrum: 0.29647385771386325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.48322456958703697
+  lightness: 0.4539971104823053
+  saturation: 0.6583092182409018
+  rhythmicContrast: 0.17794543481431901
+purpose: []
